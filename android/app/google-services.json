@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "929928699605",
+    "project_id": "brew-crew-daktari",
+    "storage_bucket": "brew-crew-daktari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929928699605:android:5cfceb34b317b5526ecc5c",
+        "android_client_info": {
+          "package_name": "com.marvelin.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929928699605-npp1ffu04rld03592uftbt8rb2br92oq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marvelin.brew_crew",
+            "certificate_hash": "6934f89917eeadd2f906ae4929bf3ffdd4b0c1a1"
+          }
+        },
+        {
+          "client_id": "929928699605-seheevum4vnrj5bb7ali2orbkqpg6gad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6MoG3B965RKmQ6LOKILPALmbeXedZ-Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929928699605-seheevum4vnrj5bb7ali2orbkqpg6gad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
